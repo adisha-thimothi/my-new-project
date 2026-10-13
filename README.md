@@ -1,10 +1,9 @@
-"##Summary"
+#From Words to Insight
 
-My New Project
+Building of AI Course Project
 
-"From Words to Insights (Building of AI Course Project)"
-A small project for understanding the feeling behind written feedback
 ##Summary
+
 This project is a simple sentiment analysis tool. It reads a piece of text and returns one of three results: positive, negative or neutral. The idea is to help people understand the overall tone of written feedback without having to read every message individually.
 ##Background
 People share opinions through product reviews, social media posts, emails and customer service messages. When a company receives hundreds or thousands of these messages, it is difficult to quickly gauge the overall mood. Sentiment analysis can provide an initial overview and highlight where attention may be needed.
